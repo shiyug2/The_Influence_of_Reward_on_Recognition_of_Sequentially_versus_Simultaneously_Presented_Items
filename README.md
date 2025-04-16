@@ -71,7 +71,7 @@ Zhang, Q., Walsh, M. W., & Anderson, J. R. (2017). The effects of probe similari
 
 ## Poster file
 
-[Link to download PDF poster] (optional)
+https://github.com/shiyug2/value-capture-poster/blob/main/Symposium%20Poster.pdf
 
 ## Project Info
 
