@@ -1,4 +1,4 @@
-# value-capture-poster
+# The Influence of Reward on Recognition of Sequentially versus Simultaneously Presented Items
 Poster project exploring value-driven attentional capture and its effect on recognition memory  
 *Shiyu Guo, University of Illinois at Urbana-Champaign*
 
