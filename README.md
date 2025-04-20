@@ -15,7 +15,7 @@ Sandry, J., & Ricker, T. J. (2020). Prioritization within visual working memory 
 
 ## Poster file
 
-https://github.com/shiyug2/value-capture-poster/blob/main/Symposium%20Poster.pdf
+[https://github.com/shiyug2/value-capture-poster/blob/main/Symposium%20Poster.pdf]
 
 ## Project Info
 
